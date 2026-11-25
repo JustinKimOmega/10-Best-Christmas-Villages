@@ -1,0 +1,65 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta content="width=device-width, initial-scale=1" name="viewport">
+        <title>7. Tallinn - Christmas Travel Guide</title>
+        <link href="../style.css" rel="stylesheet">
+    </head>
+    <body>
+
+        <header>
+            <h1>🎄 10 BEST CHRISTMAS VILLAGES IN THE WORLD 🎄</h1>
+            <p>A Simple Christmas Travel Guide</p>
+        </header>
+
+        <nav>
+            <a href="../index.html">HOME</a>
+            <a href="1.html">1</a>
+            <a href="2.html">2</a>
+            <a href="3.html">3</a>
+            <a href="4.html">4</a>
+            <a href="5.html">5</a>
+            <a href="6.html">6</a>
+            <a class="active" href="7.html">7</a>
+            <a href="8.html">8</a>
+            <a href="9.html">9</a>
+            <a href="10.html">10</a>
+        </nav>
+
+        <main class="container">
+
+            <article>
+                <h2>#7 — Tallinn</h2>
+                <p class="tagline">📍 Estonia | Medieval Christmas Magic</p>
+                <img alt="Christmas scene in Tallinn" class="place-image" src="../pictures/7.jpg">
+                <h3>DESCRIPTION</h3>
+                <p>Tallinn celebrates Christmas in its historic Town Hall Square. A decorated tree
+                    rises above market stalls selling crafts, snacks, and warm drinks. The medieval
+                    buildings and narrow streets provide a festive scene that feels both traditional
+                    and welcoming.</p>
+                <div class="info">
+                    <p><b> Things to Do: </b> Visit Town Hall Square and browse the Christmas market.</p>
+                    <p><b> Best Time to Visit: </b> Late November through December; check the current market calendar.</p>
+                </div>
+                <div class="travel-guide">
+                    <h3>TRAVEL INFORMATION</h3>
+                    <p><b> How to Get There: </b> Reach Tallinn by air or ferry, then walk or take public transit to the Old Town.</p>
+                    <p><b> Travel Highlights: </b> Visit the Town Hall Square market and walk the historic
+                        lanes under Christmas lights.</p>
+                    <p><b> Travel Tips: </b> The old streets can be slippery in winter, so choose grippy footwear.</p>
+                    <p><b> Important Note: </b> Market schedules, transportation services, and opening
+                        hours may change each year. Check current details before your trip.</p>
+                </div>
+                <div class="buttons">
+                    <a href="6.html">← PREVIOUS</a>
+                    <a href="../index.html">HOME</a>
+                    <a href="8.html">NEXT →</a>
+                </div>
+            </article>
+        </main>
+
+        <footer>
+            Christmas Travel Guide | HTML & CSS Student Website Project
+        </footer>
+    </body>
+</html>
